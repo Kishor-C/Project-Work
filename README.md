@@ -9,7 +9,10 @@ Brainstorm Value-Add Features: If you complete the baseline early, think critica
 
 Document and Map Your Enhancements: Keep a precise record of all modifications. Note down exactly what was a "stated feature" (required by the document) versus what was an "improvised feature" (added by your team).
 
-Prepare Your Presentation Defense: During your final presentation and SME review, you must explicitly highlight your value additions. Be ready to present:
+Prepare Your Presentation Defense: During your final presentation and SME review, you must explicitly highlight your value additions. 
+Be ready to present:
 Stated Features: What you built to satisfy the standard requirements.
+
 Improvised Features: The extra fine-tuning and advanced features you introduced.
+
 The Business/Technical Benefit: The clear value, efficiency, or advantage these new features bring to the project.
