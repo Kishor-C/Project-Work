@@ -11,6 +11,7 @@ Document and Map Your Enhancements: Keep a precise record of all modifications. 
 
 Prepare Your Presentation Defense: During your final presentation and SME review, you must explicitly highlight your value additions. 
 Be ready to present:
+
 Stated Features: What you built to satisfy the standard requirements.
 
 Improvised Features: The extra fine-tuning and advanced features you introduced.
